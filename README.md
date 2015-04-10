@@ -1,2 +1,0 @@
-# AdhocSdkDemo
-adhoc demo 
